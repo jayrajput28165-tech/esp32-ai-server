@@ -1,0 +1,13 @@
+{
+  "name": "esp32-ai-server",
+  "version": "1.0.0",
+  "description": "AI Server for ESP32 Voice Robot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "openai": "^4.0.0"
+  }
+}
